@@ -1,4 +1,4 @@
-package com.mlnotes.feeder;
+package com.mlnotes.storm.feeder;
 
 import java.io.BufferedReader;
 import java.io.IOException;
